@@ -3,7 +3,7 @@
 - 👨🏾‍💻 Currently working on  Flutter,C# and Python.
 - 🤔 I’m looking for collaborations.
 - ✌🏾 Looking forward opportunities and collaboration related with other mobile app development and contracts.
-- 📫 I'm available to answer your android related questions on any platform.
+- 📫 I'm available to answer your flutter android or C# web Api related questions on any platform.
 
 ![github](https://img.shields.io/github/followers/DavidMtundi?style=plastic)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
