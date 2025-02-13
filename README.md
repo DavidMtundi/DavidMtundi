@@ -27,9 +27,6 @@ I’m **David Mtundi**, a passionate software engineer actively working with **F
   <tr>
     <td colspan="2"><img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DavidMtundi&theme=highcontrast" alt="David's GitHub Streak" /></td>  
   </tr>
-  <tr>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
-  </tr>
 </table>
 </center>
 
