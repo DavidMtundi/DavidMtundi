@@ -33,15 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmtundi&&layout=compact&langs_count=6&theme=highcontrast&hide_border=true" />
 </p>
 
-
-## GITHUB PROFILE TROPHY 🏆
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=davidmtundi&margin-w=25&margin-h=25&column=7&theme=darkhub" />    
-</p>
-
-## CODING ACTIVITY
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=davidmtundi&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-
