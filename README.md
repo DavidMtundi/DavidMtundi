@@ -25,7 +25,7 @@ I’m **David Mtundi**, a passionate software engineer actively working with **F
     <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidmtundi&hide=html&layout=compact&theme=dark" alt="David's Top Languages" /></td>
   </tr>  
   <tr>
-    <td colspan="2"><img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMtundi&theme=highcontrast" alt="David's GitHub Streak" /></td>  
+    <td colspan="2"><img width="780px" align="center" src="https://streak-stats.demolab.com/?user=DavidMtundi&theme=highcontrast" alt="David's GitHub Streak" /></td>  
   </tr>
 </table>
 </center>
@@ -36,7 +36,7 @@ I’m **David Mtundi**, a passionate software engineer actively working with **F
 
 #### Contribution Graph:
 
-[![David's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DavidMtundi&theme=react-dark)](https://github.com/DavidMtundi)
+[![David's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidMtundi&theme=react-dark)](https://github.com/DavidMtundi)
 
 #### GitHub Trophy 🏆
 
